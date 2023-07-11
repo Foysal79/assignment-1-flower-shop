@@ -161,7 +161,7 @@ padding-bottom: 15px;
 
 }
 .color-red{
-    color: red;
+    color: #E55473;
 }
 .four-dis{
     color: rgba(39, 39, 39, 0.60);
@@ -238,4 +238,19 @@ line-height: 25px;
     text-align: center;
     margin-left: 5px;
 
+}
+.seven-continer{
+    background-color: black;
+    height: 350px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.foter-title, .foter-des{
+    color: white;
+}
+.copy-right{
+    color: rgba(255, 255, 255, 0.40);
+    text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    padding-top: 20px;
 }
